@@ -7,9 +7,9 @@ import argparse
 '''
 OPS445 Assignment 2
 Program: duim.py
-Author: Vatanveer Singh
+Author: Amaanbhai Salimbhai Begh 
 The python code in this file (duim.py) is original work written by
-Vatanveer Singh. No code in this file is copied from any other source 
+AmaanbhaiSalimbhaiBegh. No code in this file is copied from any other source 
 except those provided by the course instructor, including any person, 
 textbook, or on-line resource. I have not shared this python script 
 with anyone or anything except for submission for grading.  
