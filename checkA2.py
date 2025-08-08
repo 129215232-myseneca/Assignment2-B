@@ -1,4 +1,5 @@
 #!/usr/bin/env python3 
+author: Amaanbhai Salimbhai Begh
 
 import sys, os
 import duim
